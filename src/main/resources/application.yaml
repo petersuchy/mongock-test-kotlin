@@ -5,5 +5,5 @@ spring:
       database: "notifHub"
 
 mongock:
-  migration-scan-package: "com.example.mongotestkotlin.config.db.migration"
+  migration-scan-package: "com.example.mongocktestkotlin.config.db.migration"
   transaction-enabled: true
